@@ -45,7 +45,7 @@ Go to the project directory
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 ## Usage/Examples
