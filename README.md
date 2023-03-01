@@ -8,9 +8,32 @@ React js, Particles
 
 ![App Screenshot](src/assets/particles.png)
 
-## Running Tests
+## Run Locally
 
-To run tests, run the following command
+Clone the project
+
+```bash
+
+  git clone https://github.com/nurul-komor/reactJs-particlessJs.git
+
+```
+
+Go to the project directory
+
+```bash
+
+  cd my-project
+
+```
+
+Start the server
+
+```bash
+
+  npm run dev
+
+```
+## Usage/Examples
 
 ```bash
   create-react-app project-name
@@ -28,27 +51,7 @@ To run tests, run the following command
   yarn add tsparticles
 ```
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/nurul-komor/reactJs-particlessJs.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
-## Usage/Examples
 
 Step:1: Create a config file eg: "src/config/particles-config"
 
